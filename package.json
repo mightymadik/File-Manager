@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.3",
+        "laravel-vite-plugin": "^1.0.0",
+        "less": "^4.2.0",
+        "typescript": "^5.3.3",
+        "vite": "^5.0.10"
+    },
+    "dependencies": {
+        "@vitejs/plugin-vue": "^5.0.0",
+        "mdb-ui-kit": "^7.1.0",
+        "sweetalert2": "^11.10.2",
+        "vue": "^3.2.36",
+        "vue-router": "^4.2.5",
+        "vuex": "^4.0.2"
+    }
+}
